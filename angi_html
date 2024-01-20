@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=devise-width, initial-scale=1.0">
+        <title>PRIMER SITIO WED</title>
+
+        <header>
+            <h1> ¿QUE ES LA IA?</h1>
+
+            <span> PARA</span>
+            <span> EL</span>
+            <span> AÑO</span>
+            <span> 2024</span>
+        </header>
+
+        <hr />
+
+        <main>
+
+            <img src="./foto.ia.avif"/>
+
+            <section>
+                <h2> La Inteligencia Artificial</h2>
+
+                <article>
+                    <h3> ¿QUE ES?</h3>
+
+                <div>
+                    <p> Tecnologia innovadora, fascinante, adictiva y misteriosa. Imitan capacidades del ser humano con la combinacion y aplicacion de algoritmos creados en computadoras o maquinas.</p>
+                </div>
+
+                </article>
+                <hr />
+                <article>
+                    <h3> Diferentes tipos de inteligencia artificial</h3>
+               
+                <div>
+                    <p> Por Stuart Russell y Peter Norvig.</p>
+
+                <ul>    
+
+                   <li> Sistemas que actúan como humanos.</li>
+                   <li> Sistemas que piensan como humanos.</li>
+                   <li> Sistemas que piensan racionalmente.</li>
+                   <li> Sistemas que actúan racionalmente.</li>
+                </ul>
+                </div>
+
+                </article>
+                <hr />
+                <article>
+                    <h3> ¿Es importante la inteligencia artificial?</h3>
+
+                <div>
+                    <p> Con la IA, las empresas pueden mejorar la eficiencia de sus operaciones, reducir costos y aumentar la productividad. Hoy en día, la cantidad de datos que se genera, tanto por parte de los humanos como por parte de las máquinas, supera en gran medida la capacidad que tienen las personas de absorber, interpretar y tomar decisiones complejas basadas en esos datos.</p>
+                </div>
+
+                </article>
+            </section>
+
+            <img src="./ia.jfif"/>
+
+        </main>
+
+        <footer>
+            <p> Postulacion para nuestra escuela</p>
+
+            <a href="./formulario.html">FORMULARIO DE INSCRIPCION</a>
+        </footer>
+    </head>
+    <body>
+
+    </body>
+</html>
